@@ -113,20 +113,27 @@ yarn make
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/fhilipecrash">
-            <img src="https://avatars.githubusercontent.com/u/36455575?v=4" width="100;" alt="fhilipecrash"/>
-            <br />
-            <sub><b>Fhilipe Coelho</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Magrid0">
             <img src="https://avatars.githubusercontent.com/u/73496008?v=4" width="100;" alt="Magrid0"/>
             <br />
             <sub><b>Magrid</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/fhilipecrash">
+            <img src="https://avatars.githubusercontent.com/u/36455575?v=4" width="100;" alt="fhilipecrash"/>
+            <br />
+            <sub><b>Fhilipe Coelho</b></sub>
+        </a>
     </td></tr>
 <tr>
+    <td align="center">
+        <a href="https://github.com/shadowtosser">
+            <img src="https://avatars.githubusercontent.com/u/168544958?v=4" width="100;" alt="shadowtosser"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/ferivoq">
             <img src="https://avatars.githubusercontent.com/u/36544651?v=4" width="100;" alt="ferivoq"/>
@@ -160,6 +167,14 @@ yarn make
             <img src="https://avatars.githubusercontent.com/u/91623880?v=4" width="100;" alt="Netflixyapp"/>
             <br />
             <sub><b>Netflixy</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/wexkalebur">
+            <img src="https://avatars.githubusercontent.com/u/162898168?v=4" width="100;" alt="wexkalebur"/>
+            <br />
+            <sub><b>Kobibank</b></sub>
         </a>
     </td></tr>
 </table>
