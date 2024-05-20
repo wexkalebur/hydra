@@ -60,7 +60,7 @@
     "typeorm": "^0.3.20",
     "windows-1251": "^3.0.4",
     "winston": "^3.13.0",
-    "yaml": "^2.4.1"
+    "yaml": "^2.4.2"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^2.0.0",
