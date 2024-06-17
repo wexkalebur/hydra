@@ -47,7 +47,7 @@
     "got-scraping": "^4.0.5",
     "i18next": "^23.11.2",
     "i18next-browser-languagedetector": "^7.2.1",
-    "jsdom": "^24.0.0",
+    "jsdom": "^24.1.0",
     "lodash-es": "^4.17.21",
     "lottie-react": "^2.4.0",
     "parse-torrent": "^11.0.16",
